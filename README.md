@@ -1,1 +1,1 @@
-# time-series-forecasting
+Basics of Time Series Forecasting
